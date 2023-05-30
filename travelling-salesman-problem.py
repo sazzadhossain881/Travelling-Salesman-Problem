@@ -57,5 +57,3 @@ for i in range(1, n+1):
     ans = min(ans, fun(i, (1 << (n+1))-1) + dist[i][1])
 
 print("The cost of most efficient ride = " + str(ans))
-
-# This code is contributed by Serjeel Ranjan
