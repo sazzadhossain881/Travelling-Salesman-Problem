@@ -1,5 +1,5 @@
 
-n = 10  # there are four nodes in graph (graph is 1-based)
+n = 10  # there are ten nodes in graph (graph is 1-based)
 
 # dist[i][j] represents shortest distance to go from i to j
 # this matrix can be calculated for any given graph using
